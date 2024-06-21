@@ -129,13 +129,15 @@ Context plays a critical role in prompt design. Including relevant background in
 
 Example
 
+```markdown
+
 Without context: Tell me about solar energy in Africa.
 
 With context:“Could you analyze the impact of solar energy adoption on local economies in South Africa from 2010 to 2020, focusing on job creation and changes in electricity costs for rural communities?”
 
 The second prompt is likely to yield more targeted and useful about solar energy impacts on job creation and the change of the cost of electricity in the rural areas
 
-
+```
 
 
 ### Ethical Considerations in Prompt Engineering: ###
